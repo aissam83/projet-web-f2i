@@ -29,7 +29,7 @@ public class HelloServlet extends HttpServlet {
 	 */
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		// TODO Auto-generated method stub
-		response.getWriter().println("Hello new I2A Servlet : "+new Date());
+		response.getWriter().println("Hello its hhahahahI2A Servlet : "+new Date());
 	}
 
 	/**
